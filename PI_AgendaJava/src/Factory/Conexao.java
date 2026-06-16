@@ -10,7 +10,7 @@ public class Conexao {
 		String driver = "com.mysql.cj.jdbc.Driver";
 		String url = "jdbc:mysql://localhost:3306/agenda?useTimezone=true&serverTimezone=UTC";
 		String usuario = "root";
-		String senha = "Projetointegrador@2023";
+		String senha = "xxxx";
 		
 		try { 
 			Class.forName(driver);
